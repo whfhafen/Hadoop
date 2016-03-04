@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/resource">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/apacheds-i18n-2.0.0-M15.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/apacheds-kerberos-codec-2.0.0-M15.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/api-asn1-api-1.0.0-M20.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/api-util-1.0.0-M20.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/avro-1.7.4.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/commons-beanutils-core-1.8.0.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/commons-compress-1.4.1.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/commons-configuration-1.6.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/commons-daemon-1.0.13.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/commons-digester-1.8.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/commons-el-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/commons-math-2.2.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/commons-math3-3.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/commons-net-3.1.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/disruptor-3.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/findbugs-annotations-1.3.9-1.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/guava-12.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/guice-3.0.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/guice-servlet-3.0.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/hadoop-annotations-2.5.1.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/hadoop-auth-2.5.1.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/hadoop-client-2.5.1.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/hadoop-common-2.5.1.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/hadoop-hdfs-2.5.1.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/hadoop-mapreduce-client-app-2.5.1.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/hadoop-mapreduce-client-common-2.5.1.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/hadoop-mapreduce-client-core-2.5.1.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/hadoop-mapreduce-client-jobclient-2.5.1.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/hadoop-mapreduce-client-shuffle-2.5.1.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/hadoop-yarn-api-2.5.1.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/hadoop-yarn-client-2.5.1.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/hadoop-yarn-common-2.5.1.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/hadoop-yarn-server-common-2.5.1.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/hbase-annotations-1.1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/hbase-annotations-1.1.3-tests.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/hbase-client-1.1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/hbase-common-1.1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/hbase-common-1.1.3-tests.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/hbase-examples-1.1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/hbase-hadoop2-compat-1.1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/hbase-hadoop-compat-1.1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/hbase-it-1.1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/hbase-it-1.1.3-tests.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/hbase-prefix-tree-1.1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/hbase-procedure-1.1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/hbase-protocol-1.1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/hbase-resource-bundle-1.1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/hbase-rest-1.1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/hbase-server-1.1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/hbase-server-1.1.3-tests.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/hbase-shell-1.1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/hbase-thrift-1.1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/htrace-core-3.1.0-incubating.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/httpclient-4.2.5.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/httpcore-4.1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/jackson-core-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/jackson-jaxrs-1.9.13.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/jackson-mapper-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/jackson-xc-1.9.13.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/jamon-runtime-2.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/jasper-compiler-5.5.23.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/jasper-runtime-5.5.23.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/java-xmlbuilder-0.4.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/jaxb-api-2.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/jaxb-impl-2.2.3-1.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/jcodings-1.0.8.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/jersey-client-1.9.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/jersey-core-1.9.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/jersey-guice-1.9.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/jersey-json-1.9.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/jersey-server-1.9.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/jets3t-0.9.0.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/jettison-1.3.3.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/jetty-6.1.26.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/jetty-sslengine-6.1.26.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/jetty-util-6.1.26.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/joni-2.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/jruby-complete-1.6.8.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/jsch-0.1.42.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/jsp-2.1-6.1.14.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/jsp-api-2.1-6.1.14.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/leveldbjni-all-1.8.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/libthrift-0.9.0.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/metrics-core-2.2.0.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/netty-3.2.4.Final.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/netty-all-4.0.23.Final.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/paranamer-2.3.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/protobuf-java-2.5.0.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/servlet-api-2.5.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/servlet-api-2.5-6.1.14.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/slf4j-log4j12-1.7.5.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/snappy-java-1.0.4.1.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/spymemcached-2.11.6.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/xmlenc-0.52.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/xz-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Hadoop/hbase-1.1.3-bin/hbase-1.1.3/lib/zookeeper-3.4.6.jar"/>
+	<classpathentry kind="lib" path="conf"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
